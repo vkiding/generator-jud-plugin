@@ -1,6 +1,6 @@
 {
   "name": "generator-jud-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "generator jud plugin",
   "main": "generators/app/index.js",
   "files": [

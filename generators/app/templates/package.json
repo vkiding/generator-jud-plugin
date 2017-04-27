@@ -54,10 +54,10 @@
     "query-string": "^4.2.3",
     "scroll-to": "0.0.2",
     "semver": "^5.1.0",
-    "jud-components": "^0.2.0",
-    "jud-picker": "^0.1.0",
-    "jud-rax-framework": "0.0.10",
-    "jud-vue-framework": "2.1.8-jud.1"
+    "jud-components": "latest",
+    "jud-picker": "latest",
+    "jud-rax-framework": "latest",
+    "jud-vue-framework": "latest"
   },
   "devDependencies": {
     "babel-core": "^6.17.0",
@@ -89,9 +89,9 @@
     "sinon-chai": "^2.8.0",
     "uglify-js": "^2.6.4",
     "webpack": "^1.13.1",
-    "jud-components": "^0.2.0",
-    "jud-loader": "^0.4.0",
-    "jud-vdom-tester": "^0.2.0",
+    "jud-components": "latest",
+    "jud-loader": "latest",
+    "jud-vdom-tester": "latest",
 
     "style-loader": "^0.13.1",
     "vue-loader": "^10.3.0",
